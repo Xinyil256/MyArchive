@@ -1,4 +1,4 @@
-site_title = "ArxivDaily"
+site_title = "MyArxiv"
 limit_days = 7
 cache_url = "https://Holomorphic.github.io/MyArxiv/cache.json"
 
